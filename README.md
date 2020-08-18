@@ -16,3 +16,5 @@ I firmly believe that civic tech 🇺🇸 can change our society.  Here are some
 If you are interested in my portfolio or would like to get in touch, please visit [markadkins.design](https://markadkins.design).
 
 You can find me on Twitter [@markadkn](https://twitter.com/markadkn) or Instagram [@markadkins](https://instagram.com/markadkins).
+
+<img style="visibility: hidden; display: none; width:0px;height: 0px;" src="https://profile-counter.glitch.me/funkybunch/count.svg" alt="hit counter" align="center" width="0" height="0">
