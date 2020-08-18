@@ -14,3 +14,5 @@ I firmly believe that civic tech 🇺🇸 can change our society.  Here are some
 🏫 Currently a Graduate Student at [Georgia Tech](https://twitter.com/GeorgiaTech)🐝
 
 If you are interested in my portfolio or would like to get in touch, please visit [markadkins.design](https://markadkins.design).
+
+You can find me on Twitter [@markadkn](https://twitter.com/markadkn) or Instagram [@markadkins](https://instagram.com/markadkins).
