@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Mark (He/Him)
-### I'm a Product Designer by day, and a Software Engineer by night.  But thats a secret, don't tell anyone 🤫
+### I'm a Product Designer by day, and a Software Engineer in my spare time.
 
 🔭 I'm a space nerd.  Currently working on an open source release for [capcom.io](https://capcom.io/).
 
