@@ -7,7 +7,7 @@ I firmly believe that civic tech 🇺🇸 can change our society.  Here are some
 - 🏥 [CodeForBaltimore/Healthcare-Rollcall](https://github.com/CodeForBaltimore/Healthcare-Rollcall)
 - ✅ [NCOpenPass/CampaignFinance](https://github.com/ncopenpass/CampaignFinance)
 
-💻 I work at [Bellese](https://github.com/bellese/)
+💻 I work at [Gecko Robotics](https://github.com/GeckoRobotics/) as a Senior Product Designer.
 
 🎓 Graduate of the School of Media Arts & Design (SMAD) at [James Madison University](https://twitter.com/JMU)🐶
 
