@@ -1,19 +1,20 @@
 ## Hi there 👋 I'm Mark (He/Him)
 ### I'm a Product Designer by day, and a Software Engineer in my spare time.
+I mostly write Javascript (front end & Node) and Python.
 
-🔭 I'm a space nerd.  Currently working on an open source release for [capcom.io](https://capcom.io/).
+🔭&nbsp;&nbsp;I'm a space nerd.  Currently working on an open source release for [capcom.io](https://capcom.io/).
 
-🏠 Home Automation nerd.  Integration maintainer & contributor to [Home Assistant/core](https://github.com/home-assistant/core/).
+🏠&nbsp;&nbsp;Home Automation nerd.  Integration maintainer & contributor to [Home Assistant/core](https://github.com/home-assistant/core/).
 
-I firmly believe that civic tech 🇺🇸 can change our society.  Here are some projects I'm working on with local [@CodeForAmerica](https://github.com/codeforamerica) brigades:
+Civic tech 🇺🇸 can change our society for the better.  Here are some projects I'm working on with local [@CodeForAmerica](https://github.com/codeforamerica) brigades:
 - 🏥 [CodeForBaltimore/Healthcare-Rollcall](https://github.com/CodeForBaltimore/Healthcare-Rollcall)
 - ✅ [NCOpenPass/CampaignFinance](https://github.com/ncopenpass/CampaignFinance)
 
-💻 I work at [Gecko Robotics 🦎](https://github.com/GeckoRobotics/) as a Senior Product Designer.
+💻&nbsp;&nbsp;I work at [Gecko Robotics 🦎](https://github.com/GeckoRobotics/) as a Senior Product Designer.
 
-🎓 Graduate of the School of Media Arts & Design (SMAD) at [James Madison University](https://twitter.com/JMU) 🐶
+🎓&nbsp;&nbsp;Graduate of the School of Media Arts & Design (SMAD) at [James Madison University](https://twitter.com/JMU) 🐶
 
-🏫 Currently a Graduate Student at [Georgia Tech](https://twitter.com/GeorgiaTech) 🐝
+🏫&nbsp;&nbsp;Currently a Graduate Student at [Georgia Tech](https://twitter.com/GeorgiaTech) 🐝
 
 If you are interested in my portfolio or would like to get in touch, please visit [markadkins.design](https://markadkins.design).
 
