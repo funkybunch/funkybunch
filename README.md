@@ -3,6 +3,8 @@
 
 🔭 I'm a space nerd.  Currently working on an open source release for [capcom.io](https://capcom.io/).
 
+🏠 Home Automation nerd.  Integration maintainer & contributor to [Home Assistant/core](https://github.com/home-assistant/core/).
+
 I firmly believe that civic tech 🇺🇸 can change our society.  Here are some projects I'm working on with local [@CodeForAmerica](https://github.com/codeforamerica) brigades:
 - 🏥 [CodeForBaltimore/Healthcare-Rollcall](https://github.com/CodeForBaltimore/Healthcare-Rollcall)
 - ✅ [NCOpenPass/CampaignFinance](https://github.com/ncopenpass/CampaignFinance)
