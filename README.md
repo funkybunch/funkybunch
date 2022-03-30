@@ -11,9 +11,9 @@ I firmly believe that civic tech 🇺🇸 can change our society.  Here are some
 
 💻 I work at [Gecko Robotics 🦎](https://github.com/GeckoRobotics/) as a Senior Product Designer.
 
-🎓 Graduate of the School of Media Arts & Design (SMAD) at [James Madison University](https://twitter.com/JMU)🐶
+🎓 Graduate of the School of Media Arts & Design (SMAD) at [James Madison University](https://twitter.com/JMU) 🐶
 
-🏫 Currently a Graduate Student at [Georgia Tech](https://twitter.com/GeorgiaTech)🐝
+🏫 Currently a Graduate Student at [Georgia Tech](https://twitter.com/GeorgiaTech) 🐝
 
 If you are interested in my portfolio or would like to get in touch, please visit [markadkins.design](https://markadkins.design).
 
