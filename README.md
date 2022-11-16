@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Mark (He/Him)
-### I'm a Product Designer by day, and a Software Engineer in my spare time.
+### I do a little bit of everything in the world of software.
 I mostly write Javascript (front end & Node) and Python.
 
 🔭&nbsp;&nbsp;I'm a space nerd.  Currently working on an open source release for [capcom.io](https://capcom.io/).
