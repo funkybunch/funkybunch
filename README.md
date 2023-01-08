@@ -4,13 +4,11 @@ I mostly write Javascript (front end & Node) and Python.
 
 🔭&nbsp;&nbsp;I'm a space nerd.  Currently working on an open source release for [capcom.io](https://capcom.io/).
 
-🏠&nbsp;&nbsp;Home Automation nerd.  Integration maintainer & contributor to [Home Assistant/core](https://github.com/home-assistant/core/).
+🏠&nbsp;&nbsp;Product designer by day.  Home Automation nerd.  Integration maintainer & contributor to [Home Assistant/core](https://github.com/home-assistant/core/).
 
 Civic tech 🇺🇸 can change our society for the better.  Here are some projects I'm working on with local [@CodeForAmerica](https://github.com/codeforamerica) brigades:
 - 🏥 [CodeForBaltimore/Healthcare-Rollcall](https://github.com/CodeForBaltimore/Healthcare-Rollcall)
 - ✅ [NCOpenPass/CampaignFinance](https://github.com/ncopenpass/CampaignFinance)
-
-💻&nbsp;&nbsp;I work at [Gecko Robotics 🦎](https://github.com/GeckoRobotics/) as a Senior Product Designer.
 
 🎓&nbsp;&nbsp;Graduate of the School of Media Arts & Design (SMAD) at [James Madison University](https://twitter.com/JMU) 🐶
 
