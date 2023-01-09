@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mark (He/Him)
 ### I do a little bit of everything in the world of software.
-I mostly write Javascript (front end & Node) and Python.
+When I'm not designing things, I mostly write Javascript (front end & Node) and Python.
 
 🔭&nbsp;&nbsp;I'm a space nerd.  Currently working on an open source release for [capcom.io](https://capcom.io/).
 
