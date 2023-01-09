@@ -4,7 +4,7 @@ I mostly write Javascript (front end & Node) and Python.
 
 🔭&nbsp;&nbsp;I'm a space nerd.  Currently working on an open source release for [capcom.io](https://capcom.io/).
 
-Product designer by day.  Home Automation nerd.  Integration maintainer & contributor to [Home Assistant/core](https://github.com/home-assistant/core/).
+Designer by day.  Home Automation nerd & Integration maintainer & contributor to [Home Assistant/core](https://github.com/home-assistant/core/) by night.
 
 Civic tech 🇺🇸 can change our society for the better.  Here are some projects I'm working on with local [@CodeForAmerica](https://github.com/codeforamerica) brigades:
 - 🏥 [CodeForBaltimore/Healthcare-Rollcall](https://github.com/CodeForBaltimore/Healthcare-Rollcall)
