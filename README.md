@@ -2,7 +2,7 @@
 ### I do a little bit of everything in the world of software.
 When I'm not designing things, I mostly write Javascript (front end & Node) and Python.
 
-🔭&nbsp;&nbsp;I'm a space nerd.  Currently working on an open source release for [capcom.io](https://capcom.io/).
+🔭&nbsp;&nbsp;I'm a space nerd.  Currently working on an open source release for a TLE-based satellite tracker.
 
 Designer by day.  Home Automation nerd & Integration maintainer & contributor to [Home Assistant/core](https://github.com/home-assistant/core/) by night.
 
