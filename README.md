@@ -16,7 +16,7 @@ Civic tech 🇺🇸 can change our society for the better.  Here are some projec
 
 If you are interested in my portfolio or would like to get in touch, please visit [markadkins.design](https://markadkins.design).
 
-You can find me on Instagram [@markadkins](https://instagram.com/markadkins) and LinkedIn [/in/markadkn](https://www.linkedin.com/markadkn).
+You can find me on Instagram [@markadkins](https://instagram.com/markadkins) and LinkedIn [/in/markadkn](https://www.linkedin.com/in/markadkn).
 
 <img style="visibility: hidden; display: none; width:0px;height: 0px;" src="https://profile-counter.glitch.me/funkybunch/count.svg" alt="hit counter" align="center" width="0" height="0">
 
