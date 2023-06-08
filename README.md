@@ -14,7 +14,7 @@ Civic tech 🇺🇸 can change our society for the better.  Here are some projec
 
 🏫&nbsp;&nbsp;Currently a Graduate Student at [Georgia Tech](https://twitter.com/GeorgiaTech) 🐝
 
-✅&nbsp;&nbsp;Senior UX Designer at [@fidelity](https://github.com/fidelity)
+🎨&nbsp;&nbsp;Senior UX Designer at [@fidelity](https://github.com/fidelity) ✅
 
 If you are interested in my portfolio or would like to get in touch, please visit [markadkins.design](https://markadkins.design).
 
