@@ -4,15 +4,17 @@ When I'm not designing things, I mostly write Javascript (front end & Node) and 
 
 🔭&nbsp;&nbsp;I'm a space nerd.  Currently working on an open source release for a TLE-based satellite tracker.
 
-Designer by day.  Home Automation nerd & Integration maintainer & contributor to [Home Assistant/core](https://github.com/home-assistant/core/) by night.
+Designer by day.  Home Automation nerd & integration maintainer/contributor to [Home Assistant/core](https://github.com/home-assistant/core/) by night.
 
 Civic tech 🇺🇸 can change our society for the better.  Here are some projects I'm working on with local [@CodeForAmerica](https://github.com/codeforamerica) brigades:
 - 🏥 [CodeForBaltimore/Healthcare-Rollcall](https://github.com/CodeForBaltimore/Healthcare-Rollcall)
-- ✅ [NCOpenPass/CampaignFinance](https://github.com/ncopenpass/CampaignFinance)
+- 📒 [NCOpenPass/CampaignFinance](https://github.com/ncopenpass/CampaignFinance)
 
 🎓&nbsp;&nbsp;Graduate of the School of Media Arts & Design (SMAD) at [James Madison University](https://twitter.com/JMU) 🐶
 
 🏫&nbsp;&nbsp;Currently a Graduate Student at [Georgia Tech](https://twitter.com/GeorgiaTech) 🐝
+
+✅&nbsp;&nbsp;Senior UX Designer at [@fidelity](https://github.com/fidelity)
 
 If you are interested in my portfolio or would like to get in touch, please visit [markadkins.design](https://markadkins.design).
 
