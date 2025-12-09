@@ -12,7 +12,7 @@ Civic tech 🇺🇸 can change our society for the better.  Here are some projec
 
 🎓&nbsp;&nbsp;Graduate of the School of Media Arts & Design (SMAD) at [James Madison University](https://www.jmu.edu/smad/) 🐶
 
-🏫&nbsp;&nbsp;Recent Human-Computer Interaction graduate from [Georgia Tech](https://www.cc.gatech.edu/ms-computer-science-specializations#:~:text=Communications%20%26%20International%20Development-,Human%2DComputer%20Interaction%C2%A0,-Core%20courses%20(6)) 🐝
+🏫&nbsp;&nbsp;Human-Computer Interaction (HCI) graduate from [Georgia Tech](https://www.cc.gatech.edu/ms-computer-science-specializations#:~:text=Communications%20%26%20International%20Development-,Human%2DComputer%20Interaction%C2%A0,-Core%20courses%20(6)) 🐝
 
 🎨&nbsp;&nbsp;Principal UX Designer at [Fidelity](https://fidelity.com/) ✅
 
