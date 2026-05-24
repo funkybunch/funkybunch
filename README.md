@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Mark (He/Him)
 ### I do a little bit of everything in the world of software.
-I specialize in Human-Computer Interaction (HCI).  When I'm not designing things, I mostly write Javascript (front end & Node) and Python.
+I specialize in Human-Computer Interaction (HCI).  CSS ninja to the point browsers hate me.  When I'm not designing things, I mostly write Javascript (front end & Node) and Python.
 
 🔭&nbsp;&nbsp;I'm a space nerd.  Currently working on an open source release for a TLE-based satellite tracker.
 
