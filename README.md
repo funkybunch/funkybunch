@@ -18,6 +18,6 @@ Civic tech 🇺🇸 can change our society for the better.  Here are some projec
 
 If you are interested in my portfolio or would like to get in touch, please visit [markadkins.design](https://markadkins.design).
 
-You can find me on Instagram [@markadkins](https://instagram.com/markadkins) and LinkedIn [/in/markadkn](https://www.linkedin.com/in/markadkn).
+You can find me on BlueSky [@mark.adkins.coffee](https://bsky.app/profile/mark.adkins.coffee) and LinkedIn [/in/markadkn](https://www.linkedin.com/in/markadkn).
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C6TEERC)
